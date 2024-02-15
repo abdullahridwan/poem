@@ -75,7 +75,7 @@ class _HomeState extends State<Home> {
         colorWhite: false,
         poemString:
             "Dedicated to you, Michelly Welly Hassany, my love, forever and always.",
-        assetName: "flowers_red.gif",
+        assetName: "assets/flowers_red.gif",
         labelText: "us hehe",
         backgroundColor: Colors.purple.shade100),
     PoemPage(
@@ -84,7 +84,7 @@ class _HomeState extends State<Home> {
       title: "Dawn",
       poemString:
           "Everyday\nAs the sun rises\nI am grateful\nBecause I have been given another day\nTo be with you",
-      assetName: 'dawn.gif',
+      assetName: 'assets/dawn.gif',
       labelText: "petals across the sky",
     ),
     PoemPage(
@@ -93,7 +93,7 @@ class _HomeState extends State<Home> {
       colorWhite: false,
       poemString:
           "I love your smile\nYour Laugh\nAnd everything about you\nAs it warms my heart\nAnd brings me joy\n\nYou are my sunshine",
-      assetName: 'sunshine.gif',
+      assetName: 'assets/sunshine.gif',
       labelText: "watering the bootiful sunflowers",
     ),
     PoemPage(
@@ -102,7 +102,7 @@ class _HomeState extends State<Home> {
       colorWhite: true,
       poemString:
           "One day\nAs the sun sets\nFilling the sky with it's colors\nI want to hold you close and tell you\nI love you",
-      assetName: 'Sol&Lua_Natureza.gif',
+      assetName: 'assets/Sol&Lua_Natureza.gif',
       labelText: "the bootiful sunset",
     ),
     PoemPage(
@@ -111,7 +111,7 @@ class _HomeState extends State<Home> {
       title: "The Stars",
       poemString:
           "As I stare out my window\nAnd see the vast sky of stars\nI realize that it holds no comparison\nTo your twinkling eyes",
-      assetName: 'night.gif',
+      assetName: 'assets/night.gif',
       labelText: "the bootiful stars",
     ),
   ];
@@ -127,7 +127,7 @@ class _HomeState extends State<Home> {
         colorWhite: false,
         poemString:
             "THANKS FOR READING IT HEHEH\nTHIS HAS BEEN A RIDU PRODUCTION",
-        assetName: 'cute_cat.gif',
+        assetName: 'assets/cute_cat.gif',
         labelText: "mwah mwah mwah",
       ),
       children: <Widget>[
